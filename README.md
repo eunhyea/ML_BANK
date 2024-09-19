@@ -6,6 +6,7 @@
 
 ## 2. optuna로 각 모델의 Best Params 확인
 ### 2-1. GBM(Gradient Boosting Classifier)
+![image](https://github.com/user-attachments/assets/f52aeeb5-ee4c-4ae5-9763-d4e07e53f1ad)
 
 
    
