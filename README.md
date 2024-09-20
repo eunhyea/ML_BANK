@@ -6,8 +6,10 @@ ML 모델 최적화
 ## 1. pycaret으로 최적의 모델 선별
 ![image](https://github.com/user-attachments/assets/2ee884b1-385c-4ac3-b2da-2026dbb32dee)
 
+<br><br>
 
 ## 2. optuna로 각 모델의 Best Params 확인
+---
 ### 2-1. Gradient Boosting Classifier(GBC)
 ![image](https://github.com/user-attachments/assets/82e46f33-4133-40d2-9fe8-a7c664b00770)
 
@@ -23,21 +25,23 @@ ML 모델 최적화
 ### 2-3. Random Forest Classifier(RF)
 ![image](https://github.com/user-attachments/assets/986bd278-b579-43bd-922c-425d1bca9e37)
 
-
+<br><br>
 
 ## 3. feature selection 진행 후 다시 optuna
-### 4-1. Gradient Boosting Classifier(GBC)
+---
+### 3-1. Gradient Boosting Classifier(GBC)
 ![image](https://github.com/user-attachments/assets/eedca1b9-734d-4902-9520-636196865eb5)
 
 
-### 4-2. Light Gradient Boosting Machine(LightGBM)
+### 3-2. Light Gradient Boosting Machine(LightGBM)
 ![image](https://github.com/user-attachments/assets/70a1861d-0b76-4968-b055-dea2782dd41a)
 
 
 
-### 4-3. Random Forest Classifier(RF)
+### 3-3. Random Forest Classifier(RF)
 ![image](https://github.com/user-attachments/assets/675886f7-785c-476e-8d28-1f621f5a6e38)
 
+<br><br>
 
 ---
 ## 4. 트러블슈팅 및 개선점
