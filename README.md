@@ -2,7 +2,8 @@
 <br>
 ML 모델 최적화
 데이터셋 출처 : https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset?select=bank.csv  
----
+
+<br><br>
 
 ## 1. pycaret으로 최적의 모델 선별
 ![image](https://github.com/user-attachments/assets/2ee884b1-385c-4ac3-b2da-2026dbb32dee)
