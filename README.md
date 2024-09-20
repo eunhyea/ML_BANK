@@ -6,19 +6,23 @@
 
 ## 2. optuna로 각 모델의 Best Params 확인
 ### 2-1. Gradient Boosting Classifier(GBC)
-![image](https://github.com/user-attachments/assets/f52aeeb5-ee4c-4ae5-9763-d4e07e53f1ad)
+![image](https://github.com/user-attachments/assets/82e46f33-4133-40d2-9fe8-a7c664b00770)
+
 
 
    
 ### 2-2. Light Gradient Boosting Machine(LightGBM)
-![image](https://github.com/user-attachments/assets/7c5f7f51-afa6-481e-ba4f-7a39b85b8819)
+![image](https://github.com/user-attachments/assets/e38fd851-9a93-4eaa-9a79-6cdf316203a4)
+
 
 
 
 
 
 ### 2-3. Random Forest Classifier(RF)
-![RF](https://github.com/user-attachments/assets/162b734f-010c-412a-be48-ded863ed5b15)
+![image](https://github.com/user-attachments/assets/b37aacf1-280d-4308-b453-c279176c298b)
+
+
 
 
 ---
