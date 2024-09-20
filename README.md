@@ -1,7 +1,7 @@
 # ML_BANK
 <br>
 ML 모델 최적화
-데이터셋 출처 : https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset?select=bank.csv
+데이터셋 출처 : https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset?select=bank.csv  
 ---
 
 ## 1. pycaret으로 최적의 모델 선별
@@ -10,7 +10,7 @@ ML 모델 최적화
 <br><br>
 
 ## 2. optuna로 각 모델의 Best Params 확인
----
+
 ### 2-1. Gradient Boosting Classifier(GBC)
 ![image](https://github.com/user-attachments/assets/82e46f33-4133-40d2-9fe8-a7c664b00770)
 
@@ -29,7 +29,7 @@ ML 모델 최적화
 <br><br>
 
 ## 3. feature selection 진행 후 다시 optuna
----
+
 ### 3-1. Gradient Boosting Classifier(GBC)
 ![image](https://github.com/user-attachments/assets/eedca1b9-734d-4902-9520-636196865eb5)
 
@@ -44,7 +44,7 @@ ML 모델 최적화
 
 <br><br>
 
----
+
 ## 4. 트러블슈팅 및 개선점
 - 스케일링과 인코딩 : train과 test를 분리하고, 각각 수치형/범주형 데이터로 나눠 스케일링과 인코딩 진행 -> pycaret에서 만들어진 데이터 불러오기
 - pycaret에서 xgboost와 catboost도 적용 모델로 포함시키는 과정
