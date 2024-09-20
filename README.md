@@ -29,7 +29,7 @@
 ### 3. 트러블슈팅 및 개선점
 - 스케일링과 인코딩 : train과 test를 분리하고, 각각 수치형/범주형 데이터로 나눠 스케일링과 인코딩 진행 -> pycaret에서 만들어진 데이터 불러오기
 - pycaret에서 xgboost와 catboost도 적용 모델로 포함시키는 과정
-- optuna로 하이퍼파라미터 조정 : 기준점이 accuracy인데 optuna.create_study(direction='minimize')로방향 설정 오류 -> direction='maximize'로 수정
+- optuna로 하이퍼파라미터 조정 : 기준점이 accuracy인데 optuna.create_study(direction='minimize')로방향 설정 오류 -> direction='maximize'로 수정하거나 -accuracy를 반환하도록 수정
 - 최대 accuracy RF의 0.7429083308450284로 별로 큰 효과를 거두지 못함
 - 전처리 과정에서 이상치 처리해보기
 - catboost도 하이퍼파라미터 조정해보기
