@@ -12,7 +12,8 @@
 
    
 ### 2-2. Light Gradient Boosting Machine(LightGBM)
-![image](https://github.com/user-attachments/assets/e38fd851-9a93-4eaa-9a79-6cdf316203a4)
+![image](https://github.com/user-attachments/assets/b2788791-39ec-480f-985c-edbc1db52f1f)
+
 
 
 
@@ -20,7 +21,8 @@
 
 
 ### 2-3. Random Forest Classifier(RF)
-![image](https://github.com/user-attachments/assets/b37aacf1-280d-4308-b453-c279176c298b)
+![image](https://github.com/user-attachments/assets/986bd278-b579-43bd-922c-425d1bca9e37)
+
 
 
 
